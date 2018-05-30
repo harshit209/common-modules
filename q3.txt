@@ -1,0 +1,14 @@
+question 3
+
+import datetime
+a=datetime.date(1997,6,9)
+print(a)
+print("Extracting month")
+print(a.month)
+
+output
+
+1997-06-09
+Extracting month
+6
+

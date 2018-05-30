@@ -1,0 +1,13 @@
+question 8
+
+import math
+a = int(input("Enter first number to calculate gcd : "))
+b = int(input("Enter second number to calculate gcd : "))
+print(math.gcd(a,b))
+
+output
+
+Enter first number to calculate gcd : 34
+Enter second number to calculate gcd : 170
+34
+

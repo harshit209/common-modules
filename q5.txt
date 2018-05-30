@@ -1,0 +1,13 @@
+question 5
+
+import datetime
+a=datetime.date(2021,1,11)
+print(a)
+print("Extracting date")
+print(a.day)
+
+output
+
+2021-01-11
+Extracting date
+11

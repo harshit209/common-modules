@@ -1,0 +1,14 @@
+question 4
+
+import datetime
+a=datetime.date(1997,6,9)
+print(a)
+print("Extracting day")
+print(a.day)
+
+output
+
+1997-06-09
+Extracting day
+9
+

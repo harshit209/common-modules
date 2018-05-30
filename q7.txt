@@ -1,0 +1,10 @@
+question 7
+
+import math
+fact = int(input("Enter a number to calculate factorial : "))
+print(math.factorial(fact))
+
+output
+
+Enter a number to calculate factorial : 9
+362880
